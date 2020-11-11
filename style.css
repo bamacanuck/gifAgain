@@ -3,5 +3,9 @@ form    {
 }
 
 input {
-    color: green;
+    background-color: green;
+}
+
+#buttonsDiv {
+    background-color: blue;
 }
